@@ -5,7 +5,7 @@ An end-to-end data analysis project investigating World Health Organization (WHO
 ---
 
 ## 📌 Project Overview
-Malaria remains a major public health concern in Sub-Saharan Africa. This project analyzes historical WHO data for Nigeria to evaluate long-term incidence trends, track key performance indicators (KPIs), and highlight progress made in malaria control over a 24-year period.
+Malaria remains a major public health concern in Sub-Saharan Africa. This project analyzes historical WHO data for Nigeria to evaluate long-term incidence trends, track key performance indicators (KPIs), and highlight progress made in malaria control over a 23-year period.
 
 ### Key Objectives
 * **Trend Analysis:** Identify temporal shifts in malaria incidence per 1,000 population at risk.
