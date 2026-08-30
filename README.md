@@ -35,7 +35,7 @@ Malaria remains a major public health concern in Sub-Saharan Africa. This projec
 ├── 4_ Dashboard Malaria Incidence...    # Interactive Power BI report file (.pbix)
 ├── 5_ Malaria_Incidence _Trends_Ni...   # Project presentation slides (.pdf / .pptx)
 └── README.md                            # Project documentation
-'''
+```
 ## 🚀 How to Replicate
 1. **Clone the Repository:**
    ```bash
